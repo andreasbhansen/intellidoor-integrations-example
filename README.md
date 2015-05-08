@@ -1,0 +1,1 @@
+# intellidoor-integrations-example
